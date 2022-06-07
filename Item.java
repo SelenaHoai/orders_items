@@ -12,6 +12,7 @@ public class Item{
         this.price = price;
     }
 
+// getter
     public String getName() {
         return this.name;
     }
